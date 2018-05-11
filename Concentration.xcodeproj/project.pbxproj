@@ -12,6 +12,8 @@
 		943C77C920A6067200B55CD5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 943C77C720A6067200B55CD5 /* Main.storyboard */; };
 		943C77CB20A6067400B55CD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 943C77CA20A6067400B55CD5 /* Assets.xcassets */; };
 		943C77CE20A6067400B55CD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 943C77CC20A6067400B55CD5 /* LaunchScreen.storyboard */; };
+		943C77D820A617D400B55CD5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 943C77D720A617D400B55CD5 /* README.md */; };
+		943C77DA20A6185F00B55CD5 /* Programming Project 1_ Concentration 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 943C77D920A6185F00B55CD5 /* Programming Project 1_ Concentration 1.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		943C77CA20A6067400B55CD5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		943C77CD20A6067400B55CD5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		943C77CF20A6067400B55CD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		943C77D720A617D400B55CD5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		943C77D920A6185F00B55CD5 /* Programming Project 1_ Concentration 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Programming Project 1_ Concentration 1.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +58,24 @@
 		943C77C220A6067200B55CD5 /* Concentration */ = {
 			isa = PBXGroup;
 			children = (
-				943C77C320A6067200B55CD5 /* AppDelegate.swift */,
 				943C77C520A6067200B55CD5 /* ViewController.swift */,
 				943C77C720A6067200B55CD5 /* Main.storyboard */,
-				943C77CA20A6067400B55CD5 /* Assets.xcassets */,
-				943C77CC20A6067400B55CD5 /* LaunchScreen.storyboard */,
+				943C77D620A608D600B55CD5 /* Supporting Files */,
 				943C77CF20A6067400B55CD5 /* Info.plist */,
+				943C77D920A6185F00B55CD5 /* Programming Project 1_ Concentration 1.pdf */,
+				943C77D720A617D400B55CD5 /* README.md */,
 			);
 			path = Concentration;
+			sourceTree = "<group>";
+		};
+		943C77D620A608D600B55CD5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				943C77C320A6067200B55CD5 /* AppDelegate.swift */,
+				943C77CA20A6067400B55CD5 /* Assets.xcassets */,
+				943C77CC20A6067400B55CD5 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,6 +138,8 @@
 			files = (
 				943C77CE20A6067400B55CD5 /* LaunchScreen.storyboard in Resources */,
 				943C77CB20A6067400B55CD5 /* Assets.xcassets in Resources */,
+				943C77DA20A6185F00B55CD5 /* Programming Project 1_ Concentration 1.pdf in Resources */,
+				943C77D820A617D400B55CD5 /* README.md in Resources */,
 				943C77C920A6067200B55CD5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
