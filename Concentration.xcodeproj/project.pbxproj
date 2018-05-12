@@ -14,6 +14,8 @@
 		943C77CE20A6067400B55CD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 943C77CC20A6067400B55CD5 /* LaunchScreen.storyboard */; };
 		943C77D820A617D400B55CD5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 943C77D720A617D400B55CD5 /* README.md */; };
 		943C77DA20A6185F00B55CD5 /* Programming Project 1_ Concentration 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 943C77D920A6185F00B55CD5 /* Programming Project 1_ Concentration 1.pdf */; };
+		9497444020A7561200FAFF36 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9497443F20A7561200FAFF36 /* Concentration.swift */; };
+		9497444220A756C800FAFF36 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9497444120A756C800FAFF36 /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		943C77CF20A6067400B55CD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		943C77D720A617D400B55CD5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		943C77D920A6185F00B55CD5 /* Programming Project 1_ Concentration 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Programming Project 1_ Concentration 1.pdf"; sourceTree = "<group>"; };
+		9497443F20A7561200FAFF36 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		9497444120A756C800FAFF36 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 			children = (
 				943C77C520A6067200B55CD5 /* ViewController.swift */,
 				943C77C720A6067200B55CD5 /* Main.storyboard */,
+				9497443F20A7561200FAFF36 /* Concentration.swift */,
+				9497444120A756C800FAFF36 /* Card.swift */,
 				943C77D620A608D600B55CD5 /* Supporting Files */,
 				943C77CF20A6067400B55CD5 /* Info.plist */,
 				943C77D920A6185F00B55CD5 /* Programming Project 1_ Concentration 1.pdf */,
@@ -153,6 +159,8 @@
 			files = (
 				943C77C620A6067200B55CD5 /* ViewController.swift in Sources */,
 				943C77C420A6067200B55CD5 /* AppDelegate.swift in Sources */,
+				9497444020A7561200FAFF36 /* Concentration.swift in Sources */,
+				9497444220A756C800FAFF36 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
