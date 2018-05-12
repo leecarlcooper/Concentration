@@ -7,6 +7,7 @@ Author: Lee Cooper
 ## functionality
 
 - [X] Concentration game (thru Lecture 1)
+- [X] Concentration game (thru Lecture 2)
 
 ## License
 
