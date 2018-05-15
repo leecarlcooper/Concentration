@@ -8,10 +8,19 @@ Author: Lee Cooper
 
 - [X] Concentration game (thru Lecture 1)
 - [X] Concentration game (thru Lecture 2)
+- [X] Concentration game (Required Tasks)
+
+- Developed on Xcode Version 9.3.1 (MacOS 10.13.4) for iPhone X Portrait mode only
+
+## Video Walkthrough 
+
+<img src='https://i.imgur.com/IckGD1X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [2016] [Lee Cooper]
+    Copyright [2018] [Lee Cooper]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
